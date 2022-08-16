@@ -1,0 +1,17 @@
+{
+  "name": "fastify-cli-pino-pretty-config",
+  "version": "0.0.1",
+  "description": "Pino-Pretty custom configuration in Fastify-CLI",
+  "devDependencies": {
+    "pino": "^8.4.1",
+    "pino-pretty": "^9.0.0"
+  },
+  "keywords": [
+    "pino",
+    "pino-pretty",
+    "fastify",
+    "fastify-cli"
+  ],
+  "author": "Andrea Vanelli <andrea.vanelli@gmail.com>",
+  "license": "MIT"
+}
